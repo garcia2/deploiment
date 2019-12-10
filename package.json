@@ -1,0 +1,23 @@
+{
+  "name": "deploiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garcia2/deploiment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garcia2/deploiment/issues"
+  },
+  "homepage": "https://github.com/garcia2/deploiment#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
